@@ -6,35 +6,35 @@ Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this 
 
 
 
-<root>
-    <kaspi_catalog date="string"
+
+<kaspi_catalog date="string"
                    xmlns="kaspiShopping"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
-        <company>ТОО КАЗАХ ТАУН</company>
-        <merchantid>6875000</merchantid>
-        <offers>
-            <offer sku="ch_001_standart">
-                <model>Алсу - Классический стул</model>
-                <brand>Беларусь</brand>
-                <availabilities>
-                    <availability available="yes" storeId="myFavoritePickupPoint1"/>
-                    <availability available="yes" storeId="myFavoritePickupPoint2"/>
-                </availabilities>
-                <price>30000</price>
-            </offer>
-            <offer sku="ch_002_standart">
-                <model>Prince - Классический стул</model>
-                <brand>Беларусь</brand>
-                <availabilities>
-                    <availability available="yes" storeId="myFavoritePickupPoint1"/>
-                    <availability available="yes" storeId="myFavoritePickupPoint2"/>
-                </availabilities>
-                <cityprices>
-                    <cityprice cityId="750000000">30000</cityprice>
-                </cityprices>
-            </offer>
-        </offers>
-    </kaspi_catalog>
-</root>
+    <company>ТОО КАЗАХ ТАУН</company>
+    <merchantid>6875000</merchantid>
+    <offers>
+        <offer sku="ch_001_standart">
+            <model>Алсу - Классический стул</model>
+            <brand>Беларусь</brand>
+            <availabilities>
+                <availability available="yes" storeId="myFavoritePickupPoint1"/>
+                <availability available="yes" storeId="myFavoritePickupPoint2"/>
+            </availabilities>
+            <price>30000</price>
+        </offer>
+        <offer sku="ch_002_standart">
+            <model>Prince - Классический стул</model>
+            <brand>Беларусь</brand>
+            <availabilities>
+                <availability available="yes" storeId="myFavoritePickupPoint1"/>
+                <availability available="yes" storeId="myFavoritePickupPoint2"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30000</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
+
 
