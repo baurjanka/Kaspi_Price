@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog date="string"
-                   xmlns="kaspiShopping"
-                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                   xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="string" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" />
     <company>ТОО КАЗАХ ТАУН</company>
     <merchantid>6875000</merchantid>
     <offers>
